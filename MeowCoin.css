@@ -1,0 +1,45 @@
+.inline{
+    display: inline;
+}
+
+#topSection{
+    background: url(cat-back.jpg) center;
+    background-size: 100%;
+    color:lightgoldenrodyellow;
+}
+
+#meowCoinTitle{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#logo{
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.meowCoinBlock{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+#icon{
+    height: 128px;
+    width:128px;
+}
+
+.rowSpace{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+#signuprow{
+    background-color:orange;
+    padding-bottom: 20px;
+}
+
+.mainSection{
+    background-color:orangered;
+    color:wheat;
+}
